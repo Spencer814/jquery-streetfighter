@@ -55,9 +55,9 @@ body {
 
 .text {
 	position: absolute;
-	color: black;
 	left: 650px;
 	height: 425px;
 	width: 600px;
-	top: 200px;
+	top: 250px;
+	font-size: 1.5em;
 }
